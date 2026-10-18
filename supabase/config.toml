@@ -1,0 +1,26 @@
+project_id = "hmsslfnhaswqzolufnrc"
+
+[functions.github-oauth-callback]
+verify_jwt = false
+
+[functions.daytona-preview]
+verify_jwt = false
+
+[functions.build-webhook]
+verify_jwt = false
+
+[functions.build-files]
+verify_jwt = false
+
+[functions.build-upload-apk]
+verify_jwt = false
+
+[functions.keystore-action]
+verify_jwt = false
+
+
+[functions.sentry-config]
+verify_jwt = false
+
+[functions.nowpayments-webhook]
+verify_jwt = false

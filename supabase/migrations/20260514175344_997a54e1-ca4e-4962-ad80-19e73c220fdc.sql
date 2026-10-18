@@ -1,0 +1,1 @@
+ALTER TABLE public.app_settings DROP COLUMN IF EXISTS site_logo_url;
